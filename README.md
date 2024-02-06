@@ -1,4 +1,4 @@
-# 👨‍💻 Hi there, I'm [Yashwanth]!
+# 👨‍💻 Hi there, I'm Yashwanth!
 
 I specialize in transforming concepts into captivating virtual experiences. With a solid foundation in 
 
