@@ -17,4 +17,4 @@ GraphQL and Advanced AWS Services.
 
 ## 🌐 Stay Connected
 - **LinkedIn:** [Yashwanth Chimata](https://www.linkedin.com/in/yashwanth-kumar-chimata/)
-- **Email:** ch.yashwanth1999@gmail.com
+- **Email:** ch.yashwanth386@gmail.com
