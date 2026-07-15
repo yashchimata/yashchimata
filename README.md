@@ -1,20 +1,47 @@
-![Cover Image](https://i0.wp.com/wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png?w=1170&ssl=1)
+<p align="center">
+  <img src="assets/verdict.svg" alt="statgate verdict on this profile: SHIP, the difference is real, not noise" width="880">
+</p>
 
-# 👨‍💻 Hi there, I'm Yashwanth!
+<p align="center">
+  Real output format, real tool, numbers lovingly fabricated.<br>
+  The card comes from <a href="https://github.com/yashchimata/statgate">statgate</a>, a statistical CI gate for LLM evals that I built and shipped.<br>
+  The rest of this page is the part you can verify.
+</p>
 
-I can turn your ideas into exciting online experiences through a bunch of lines in broken english.
+## The evidence
 
-## 🛠️ Skills Overview
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![C#/.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+Full Stack and AI engineer, 5+ years of production systems where LLMs meet
+infrastructure. AI agent tooling and LLM eval pipelines at Meta, a membership
+platform serving 80M+ cardholders at Costco, financial services at
+J.P. Morgan Chase.
 
-## 🚀 Expertise in Full Stack Development
+## Shipped and verifiable
 
-My skills cover the entire spectrum of software development, from frontend design to backend development and database management.
+| Project | What it is | Proof |
+|---|---|---|
+| [statgate](https://github.com/yashchimata/statgate) | Statistical ship or block CI gates for LLM evals: paired bootstrap verdicts, power analysis, sequential early stopping | [![PyPI](https://img.shields.io/pypi/v/statgate)](https://pypi.org/project/statgate/) [![CI](https://github.com/yashchimata/statgate/actions/workflows/ci.yml/badge.svg)](https://github.com/yashchimata/statgate/actions/workflows/ci.yml) [Marketplace](https://github.com/marketplace/actions/statgate) |
+| [Live demo PRs](https://github.com/yashchimata/statgate/pulls?q=is%3Apr+is%3Aopen+label%3Ademo) | The gate reviewing real changes in public: one pull request it ships, one it blocks with a red check | open them and look |
+| [Dota 2 portfolio](https://dota2-portfolio.vercel.app) | My portfolio rebuilt as a playable game client, because a PDF has no hover states | click around |
 
-## 📚 **Currently learning**
-GraphQL and Advanced AWS Services.
+## How I build
 
+- **AI and LLM**: LangChain agents, RAG, PyTorch fine-tuning, evals and guardrails, ontology-driven text-to-SQL
+- **Backend**: Java 21 and Spring Boot, Python FastAPI, event-driven systems on GCP Pub/Sub and AWS
+- **Frontend**: TypeScript, React, Next.js
+- **Runway to prod**: Kubernetes, Docker, Argo CD, GitHub Actions, GitOps
 
-## 🌐 Stay Connected
-- **LinkedIn:** [Yashwanth Chimata](https://www.linkedin.com/in/yashwanth-kumar-chimata/)
-- **Email:** ch.yashwanth386@gmail.com
+## Verdict methodology
+
+Paired comparison of claims against receipts. Resume bullets are the
+baseline. Things you can click are the candidate.
+
+`pip install statgate` is real. The Marketplace listing is real. The 80M
+cardholders are real. The p-value up top is a joke, but only because n=1:
+gather more evidence at the links below.
+
+## Say hello
+
+[LinkedIn](https://www.linkedin.com/in/yashwanth-kumar-chimata) &middot; [Portfolio](https://dota2-portfolio.vercel.app) &middot; [Email](mailto:yashwanthchimata11@gmail.com)
+
+<sub>Open finding, currently INCONCLUSIVE: whether 5,000+ hours of Dota 2
+count as distributed systems experience. The suite is too small to tell.</sub>
